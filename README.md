@@ -10,7 +10,7 @@
 
 - 🤠 A passionate Data Scientist from Peru</h3>
 - :school: I’m currently studying Computer Science at [Peruvian University of Applied Sciences](https://www.upc.edu.pe/)
-- 🌱 I’m currently learning **Competitive programming, Applications of Data Science, Machine Learning, etc**
+- 🌱 I’m currently learning **Competitive programming, Applications of Data Science, Machine Learning and Artificial Intelligence**
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
