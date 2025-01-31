@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsovero&label=Profile%20views&color=0e75b6&style=flat" alt="johnsovero" /> 
 </p>
 
-- 🤠 A passionate Data Scientist from Peru</h3>
+- 🤠 A passionate Software Engineer from Peru</h3>
 - :school: I’m currently studying Computer Science at [Peruvian University of Applied Sciences](https://www.upc.edu.pe/)
 - 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Advanced Competitive Programming and Pytorch**
 
